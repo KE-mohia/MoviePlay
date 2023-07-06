@@ -1,5 +1,5 @@
 <h1 align="center">MovePlay</h1>
-MovePlay is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
+MovePlay is a HTML-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 
 
 # 🍿 Features 
@@ -18,16 +18,16 @@ MovePlay is a React-based movie website that allows users to search for movies b
 
 MovePlay is built using the following technologies:
 
-- ReactJS
+- HTML
+- CSS
+- JAVASCRIPT
 - TMDB API
-- Firebase Google Authentication
-- Framer Motion
 
 <hr/>
 
 # 🍿 How to Run the Website on Your System
 
-## Step 1: Download and Extract the Code
+## Step 1: Download / Clone and Extract the Code
 
 Firstly, download the entire website code and extract the ZIP file to a folder on your local system.
 
