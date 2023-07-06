@@ -52,5 +52,5 @@ Open your code editor (such as VS Code) and navigate to the project directory. T
 
 # 🍿 Demo 
 
-- Check out our live demo at https://movieplay.pagesa.app/ 
+- Check out our live demo at https://ke-mohia.github.io/MoviePlay/ 
  
