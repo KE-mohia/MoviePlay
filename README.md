@@ -70,25 +70,25 @@ To start contributing, follow the below guidelines:
 
 **🌟.**  Star🌟 the repo to appreciate the work.
 
-**0.**  Take a look at the existing [issues](https://github.com/QAZIMAAZARSHAD/Movie-Streaming-Website/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
+**0.**  Take a look at the existing [issues](https://github.com/QAZIMAAZARSHAD/MoviePlay/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
 
-**1.**  Fork [this](https://github.com/QAZIMAAZARSHAD/Movie-Streaming-Website) repository.
+**1.**  Fork [this](https://github.com/QAZIMAAZARSHAD/MoviePlay) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_user_name>/Movie-Streaming-Website.git
+git clone --depth 1 git@github.com:KE-mohia/MoviePlay.git
 ```
 
 **3.** Navigate to the project direct
 ```
-cd Movie-Streaming-Website
+cd MoviePlay
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/QAZIMAAZARSHAD/Movie-Streaming-Website.git 
+git remote add upstream https://github.com/QAZIMAAZARSHAD/MoviePlay.git 
 ```
 
 **5.** Check the remotes for this repository.
